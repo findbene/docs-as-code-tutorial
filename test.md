@@ -1,0 +1,1 @@
+"To open the app, click on the icon." (Microsoft style says "Select" or "Click," never "Click on")
